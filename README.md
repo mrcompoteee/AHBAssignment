@@ -17,5 +17,7 @@ Mobile application that displays real-time exchange rates for a list of selected
 
 # Screenshots
 
+![Simulator Screenshot - iPhone 16 Pro - 2025-05-21 at 10 55 43](https://github.com/user-attachments/assets/51e5a392-aed8-41d0-a2a1-10d3842a1295)
+![Simulator Screenshot - iPhone 16 Pro - 2025-05-21 at 10 57 04](https://github.com/user-attachments/assets/b1da4b30-87e3-4ab2-9919-b32bef55091a)
 
 
