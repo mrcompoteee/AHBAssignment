@@ -5,7 +5,7 @@
 //  Created by Borys Vynohradov on 03.05.2025.
 //
 
-struct CoinData: Codable, Identifiable, Equatable, Hashable {
+struct CoinData: Codable, Identifiable, Equatable {
     let id: String
     let symbol: String
     let name: String
